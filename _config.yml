@@ -1,0 +1,21 @@
+# Site settings
+title: The Spirited Techie Ninja
+header-img: img/home-bg.png
+email: bnlauren@gmail.com
+copyright_name: bnlauren
+description: > # this means to ignore newlines until "baseurl:"
+  Energetic persona within a tech savvy individual
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  bnlauren
+learn_profile: bnlauren
+email_username: bnlauren@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
