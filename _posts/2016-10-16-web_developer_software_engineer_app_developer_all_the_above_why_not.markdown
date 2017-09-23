@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Web Developer? Software Engineer? App Developer? All the above? WHY NOT?!"
-date:   2016-10-16 04:31:35 +0000
+title:  "Web Developer? Software Engineer? All the above and more? WHY NOT?!"
+date:   2016-10-16 00:31:36 -0400
 ---
+
 
 I decided to learn software development because of PokemonGo! THE END....
 
@@ -17,12 +18,12 @@ Now, at the age of 31, my friend and I decided to start a blog about how to be f
 Through my experience with SharePoint and WordPress I learned they were much more limiting and I prefer building everything from scratch. This combined with the ambitions of several of my friends and I wanting to build apps I have felt like something keeps drawing me back into this world of coding. Reflecting upon this I came to the following conclusions:
 * I will have the opportunity to build a clientele base and manage their websites
 * With our site, PennyNinjas, I would have full control of all attributes without having to rely of WordPress for designs
-* While building a great app takes time if we're successful it could really pay off as well as help a ton of people
-* I'll get to be around developers again, which excited me as I've always enjoyed the atmosphere
 
-Now after been laid off from my position I was at a crossroads. Do I want to maintain a career as a mechanical engineer or do I want to dive in while I have this opportunity? Everything I'm feeling told me to looking into coding so I decided to look into bootcamps and who better to ask that Google? I needed an option where I could attend a coding bootcamp online. While I would love to attend in person I need to have the flexibility to acquire a job while I attend school. Flatiron School had everything I was looking for: a massive support system (even the Co-Founder/Dean logs in and answers questions), great curriculum (my friend who's a developer also reviewed the curriculum and thought it was great), and dedicated career services.
+Now after been laid off from my position I was at a crossroads. Do I want to maintain a career as a mechanical engineer or do I want to dive in while I have this opportunity? Everything I'm feeling told me to looking into coding so I decided to look into bootcamps and who better to ask than Google? I needed an option where I could attend a coding bootcamp online. While I would love to attend in person I need to have the flexibility to acquire a job while I attend school. Flatiron School had everything I was looking for: a massive support system (even the Co-Founder/Dean logs in and answers questions), great curriculum (my friend who's a developer also reviewed the curriculum and thought it was great), and dedicated career services.
 
-Let's be honest, the reality is as times progress the more integrated our society gets into technology. With the growing need there's alot of job security which is definitely a plus. I love coding! It's fun and engaging! Last but not least there's nothing more rewarding than finding that random line of code that's been messing up your program after hours of searching (a maybe a tylenol or two later). The idea of developing a site and app that will help society excites me even more. I can't wait until graduation, time to get the ball rolling!
+Let's be honest, the reality is as times progress the more integrated our society gets into technology. With the growing need there's alot of job security which is definitely a plus. Last but not least there's nothing more rewarding than finding that random line of code that's been messing up your program after hours of searching (a maybe a tylenol or two later). 
+
+After gaining developer experience I'd like to expand upon that in a product role. Having the ability to code and help guide the evolution of the product while also building relationships sounds like a dream job. I can't wait until graduation, time to get the ball rolling!
 
 
 
