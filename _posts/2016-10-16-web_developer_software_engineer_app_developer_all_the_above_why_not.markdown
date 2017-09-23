@@ -19,11 +19,11 @@ Through my experience with SharePoint and WordPress I learned they were much mor
 * I will have the opportunity to build a clientele base and manage their websites
 * With our site, PennyNinjas, I would have full control of all attributes without having to rely of WordPress for designs
 
-Now after been laid off from my position I was at a crossroads. Do I want to maintain a career as a mechanical engineer or do I want to dive in while I have this opportunity? Everything I'm feeling told me to looking into coding so I decided to look into bootcamps and who better to ask than Google? I needed an option where I could attend a coding bootcamp online. While I would love to attend in person I need to have the flexibility to acquire a job while I attend school. Flatiron School had everything I was looking for: a massive support system (even the Co-Founder/Dean logs in and answers questions), great curriculum (my friend who's a developer also reviewed the curriculum and thought it was great), and dedicated career services.
+Do I want to maintain a career as a mechanical engineer or do I want to dive in while I have this opportunity? Everything I'm feeling told me to looking into coding so I decided to look into bootcamps and who better to ask than Google? I needed an option where I could attend a coding bootcamp online. While I would love to attend in person I need to have the flexibility to acquire a job while I attend school. Flatiron School had everything I was looking for: a massive support system (even the Co-Founder/Dean logs in and answers questions), great curriculum (my friend who's a developer also reviewed the curriculum and thought it was great), and dedicated career services.
 
 Let's be honest, the reality is as times progress the more integrated our society gets into technology. With the growing need there's alot of job security which is definitely a plus. Last but not least there's nothing more rewarding than finding that random line of code that's been messing up your program after hours of searching (a maybe a tylenol or two later). 
 
-After gaining developer experience I'd like to expand upon that in a product role. Having the ability to code and help guide the evolution of the product while also building relationships sounds like a dream job. I can't wait until graduation, time to get the ball rolling!
+After gaining developer experience I'd like to expand upon that in a product role. I love coding and having a role where I can  help guide the evolution of the product while also building relationships sounds like a dream job. I can't wait until graduation, time to get the ball rolling!
 
 
 
