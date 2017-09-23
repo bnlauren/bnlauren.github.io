@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Techie Siddhartha "
-date:   2017-09-23 05:50:26 +0000
+date:   2017-09-23 01:50:27 -0400
 ---
 
 
